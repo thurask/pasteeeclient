@@ -6,6 +6,7 @@ Although, since it's Cascades, the PasteClient source files in the /src director
 
 ## Requirements
 * BlackBerry OS 10.2.0+
+* A Paste.ee API key [(register here)](http://paste.ee/register)
 
 ## What it Does
 * Upload some text to paste.ee (as plaintext) and get the uploaded URL in return
