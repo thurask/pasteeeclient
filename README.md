@@ -2,7 +2,7 @@ Paste.ee Client (PasteEEClient)
 ==========
 A simple Paste.ee uploader for BlackBerry 10
 
-Although, since it's Cascades, the PasteClient source files in the /src directory also count as a Paste.ee uploader for Qt4.8.
+Although, since it's Cascades, the PasteClient source files in the /src directory also count as a Paste.ee uploader for Qt4.
 
 ## Requirements
 * BlackBerry OS 10.2.0+
