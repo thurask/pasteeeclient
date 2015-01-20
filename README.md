@@ -13,8 +13,8 @@ If it's related to Cascades/Qt, send it upstream to me.
 
 If it's related to the service itself, [contact Paste.ee](mailto:contact@paste.ee).
 
-If you liked it, why not donate to keep Paste.ee running? http://probablyaserver.com/donate
+If you liked it, why not [donate to keep Paste.ee running](http://probablyaserver.com/donate)?
 
 ## Authors
-* Nikkii http://meow.tf/index.html - Paste.ee itself
-* Thurask [(@thuraski)](http://www.twitter.com/thuraski) - Cascades/Qt port
+* [Nikkii](https://github.com/nikkiii) - Paste.ee itself
+* [Thurask](https://github.com/thurask) - Cascades/Qt port
